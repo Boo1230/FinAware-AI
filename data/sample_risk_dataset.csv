@@ -1,0 +1,25 @@
+monthly_income,existing_emis,collateral_value,cibil_score,occupation,location,business_type,active_loans,monthly_expenses,avg_monthly_balance,savings_amount,upi_transaction_frequency,utility_bill_regularity,transaction_consistency_score,income_volatility_index,defaulted
+28000,2500,40000,710,street vendor,Mumbai,retail,1,18000,12000,4500,40,0.9,0.8,0.3,0
+22000,4800,10000,590,daily wage,Pune,services,2,17000,3000,1000,25,0.5,0.4,0.9,1
+35000,4200,70000,760,shop owner,Delhi,retail,1,22000,20000,7000,55,0.85,0.82,0.25,0
+18000,3900,5000,545,driver,Lucknow,transport,3,15000,2200,500,20,0.45,0.35,1.2,1
+42000,6500,120000,790,tailor,Ahmedabad,manufacturing,1,26000,28000,9000,60,0.92,0.87,0.2,0
+26000,5100,15000,620,street vendor,Indore,retail,2,19000,7000,1800,30,0.6,0.55,0.8,1
+31000,3000,50000,700,mechanic,Nagpur,services,1,21000,14000,4200,46,0.78,0.74,0.35,0
+20000,4300,8000,560,helper,Jaipur,services,2,16500,2600,700,21,0.5,0.42,1.0,1
+47000,5200,150000,810,small business,Kolkata,wholesale,1,29000,35000,11000,70,0.94,0.9,0.15,0
+23000,4600,12000,610,street vendor,Chennai,food,2,17500,5100,1400,28,0.58,0.51,0.85,1
+38000,3900,90000,745,shop owner,Hyderabad,retail,1,24000,22000,7600,52,0.86,0.81,0.22,0
+17000,3700,3000,520,daily wage,Patna,labor,3,14500,1400,300,18,0.4,0.32,1.35,1
+33000,2800,60000,725,driver,Bhopal,transport,1,21500,17000,5000,48,0.83,0.77,0.28,0
+21000,4200,9000,575,street vendor,Kochi,retail,2,16200,3000,800,23,0.53,0.48,1.05,1
+52000,7000,180000,830,pharmacy owner,Bengaluru,health,1,31500,42000,13000,72,0.95,0.91,0.12,0
+24000,5200,11000,605,tea stall,Varanasi,food,2,18200,5000,1200,31,0.57,0.5,0.88,1
+36000,3400,85000,750,mechanic,Surat,services,1,22500,21000,6800,54,0.87,0.79,0.24,0
+19500,4100,7000,550,daily wage,Ranchi,labor,3,15200,1800,450,19,0.44,0.36,1.18,1
+44000,4600,130000,795,small business,Coimbatore,manufacturing,1,27500,30000,10200,66,0.93,0.88,0.18,0
+25500,5000,14000,625,street vendor,Noida,retail,2,18800,6200,1700,33,0.62,0.57,0.78,1
+39000,3600,95000,760,driver,Guwahati,transport,1,24800,24000,7300,57,0.88,0.82,0.21,0
+18500,4000,4500,540,helper,Kanpur,labor,3,14900,1700,350,17,0.42,0.34,1.28,1
+41000,4300,110000,780,shop owner,Mysuru,retail,1,25800,28500,9300,62,0.9,0.85,0.19,0
+22500,4700,9500,600,street vendor,Amritsar,food,2,17100,4300,1100,27,0.56,0.49,0.92,1
