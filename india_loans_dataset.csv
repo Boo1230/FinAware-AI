@@ -1,0 +1,41 @@
+loan_id,loan_category,loan_type,sub_type,lender_type,typical_lenders,target_segment,secured,typical_tenure_years,notes
+1,Retail,Home Loan,Home Purchase,Bank/HFC,Banks & HFCs,Individuals,Yes,5-30,Buying residential property
+2,Retail,Home Loan,Construction,Bank/HFC,Banks & HFCs,Individuals,Yes,5-30,House construction
+3,Retail,Home Loan,Improvement,Bank/HFC,Banks & HFCs,Individuals,Yes,3-15,Renovation
+4,Retail,Personal Loan,General,Bank/NBFC/Fintech,Banks & Digital Lenders,Individuals,No,1-5,Unsecured loan
+5,Retail,Vehicle Loan,Car,Bank/NBFC,Banks & NBFCs,Individuals,Yes,3-7,Car purchase
+6,Retail,Vehicle Loan,Two Wheeler,Bank/NBFC,Banks & NBFCs,Individuals,Yes,2-5,Bike purchase
+7,Retail,Education Loan,Domestic,Bank,Banks,Students,No,5-15,Study in India
+8,Retail,Education Loan,Abroad,Bank,Banks,Students,No,5-15,Study abroad
+9,Retail,Gold Loan,Gold Pledge,Bank/NBFC,Banks & Gold NBFCs,Individuals,Yes,0.5-3,Against gold
+10,Retail,Loan Against Property,Mortgage,Bank/NBFC,Banks & NBFCs,Individuals/Business,Yes,5-15,Against property
+11,Retail,Consumer Durable Loan,EMI,Fintech/NBFC,Fintechs,Consumers,No,0.5-3,Electronics financing
+12,Retail,Loan Against Securities,LAS,Bank,Banks,Individuals,Yes,1-5,Against shares/MF
+13,Retail,Overdraft,Salary OD,Bank,Banks,Salaried,No,1-2,Salary linked
+14,Business,MSME Loan,Term Loan,Bank/NBFC,Banks & NBFCs,SME,Yes/No,1-10,Expansion
+15,Business,MSME Loan,Working Capital,Bank,Banks,SME,No,1-5,Operations
+16,Business,MSME Loan,Cash Credit,Bank,Banks,SME,No,1-5,Revolving
+17,Business,Trade Finance,Letter of Credit,Bank,Banks,Businesses,No,0.1-1,Trade transactions
+18,Business,Trade Finance,Bank Guarantee,Bank,Banks,Businesses,No,0.1-1,Guarantee
+19,Business,Equipment Finance,Machinery,NBFC,NBFCs,Businesses,Yes,3-7,Asset purchase
+20,Agriculture,Crop Loan,Seasonal,Bank/Coop,Banks & Coop,Farmers,No,1,Crop expenses
+21,Agriculture,Agri Term Loan,Equipment,Bank,Banks,Farmers,Yes,3-10,Agri investment
+22,Agriculture,Kisan Credit Card,KCC,Bank/Coop,Banks & RRB,Farmers,No,1-5,Revolving
+23,Agriculture,Agri Infrastructure,Infra,Bank,Banks,Farmers/Groups,Yes,3-7,Infrastructure
+24,Priority Sector,Weaker Section Loan,Small Credit,Bank,Banks,Low Income,No,1-5,Priority lending
+25,Government Scheme,MUDRA,Shishu,Bank/MFI,Banks & MFIs,Micro Business,No,1-5,Small ticket
+26,Government Scheme,MUDRA,Kishore,Bank/MFI,Banks & MFIs,Micro Business,No,1-7,Medium ticket
+27,Government Scheme,MUDRA,Tarun,Bank/MFI,Banks & MFIs,Micro Business,No,1-7,Large ticket
+28,Government Scheme,Stand-Up India,Entrepreneur,Bank,Banks,SC/ST/Women,No,5-7,Startup loan
+29,Government Scheme,PMEGP,Subsidy Linked,Bank,Banks,Entrepreneurs,Yes/No,5-7,Subsidy scheme
+30,Government Scheme,CGTMSE,Guaranteed,Bank,Banks,MSME,No,1-7,Credit guarantee
+31,Digital Lending,Instant Personal Loan,App Based,Fintech,Digital Lenders,Individuals,No,0.1-3,Instant credit
+32,Digital Lending,BNPL,Pay Later,Fintech,Fintechs,Consumers,No,0.1-1,Buy now pay later
+33,Digital Lending,Merchant Cash Advance,Revenue Based,Fintech/NBFC,Fintechs,Small Merchants,No,0.5-2,Based on sales
+34,Rural,Self Help Group Loan,SHG,Bank/NGO,Banks & NGOs,Women Groups,No,1-5,Group lending
+35,Rural,Joint Liability Group,JLG,Bank,Banks,Farmers,No,1-5,Group guarantee
+36,Housing,Affordable Housing Loan,PSL,Bank/HFC,Banks & HFCs,Low Income,Yes,10-25,Affordable housing
+37,Retail,Reverse Mortgage,Senior Citizens,Bank,Banks,Senior Citizens,Yes,10-20,Income from house
+38,Retail,Top-Up Loan,Home/Personal,Bank/NBFC,Banks & NBFCs,Existing Borrowers,Yes/No,1-10,Additional funding
+39,Business,Startup Loan,Unsecured,Bank/Fintech,Banks & Fintechs,Startups,No,1-7,Startup funding
+40,Business,Invoice Financing,Bill Discounting,Fintech/Banks,Fintechs,Businesses,No,0.1-1,Against invoices
